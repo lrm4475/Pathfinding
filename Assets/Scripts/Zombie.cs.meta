@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 823bdfc5afacf954cae5cf65c8ac99d2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - dirMat: {fileID: 2100000, guid: bc6c538e04ed7974cbd4e4ed2bfc1199, type: 2}
+  - posMat: {fileID: 2100000, guid: 7f26b4d0e277add4cbf57fe26bf426c9, type: 2}
+  - sceneManager: {instanceID: 0}
+  - pathScript: {instanceID: 0}
+  - psg: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
